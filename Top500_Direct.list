@@ -2,7 +2,8 @@
 # Author: Moshel and Johnshall
 # Build time: UTC+8 2025-03-23 21:45
 
-##域名识别类
+#类别：域名类（Domain)
+
 #153
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,api.cloudmobi.net
